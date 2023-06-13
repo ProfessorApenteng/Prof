@@ -1,0 +1,29 @@
+/* /* .heading {
+  color: rgba(170, 71, 13, 0.349);
+}
+#frankapenteng {
+  color: rgb(255, 0, 13);
+}
+#prof {
+  color: rgb(89, 0, 255);
+}
+
+/* //below is a class selector */
+/* * {
+  text-align: center;
+  color: blueviolet;
+} */
+
+li:last-child {
+  border: orange solid 10px;
+}
+
+li:only-child{
+  border: green solid 10px;
+}
+input:invalid{
+  background-color: red;
+  outline:2px solid red ;
+  border-radius: 2px
+  ;
+}
