@@ -1,0 +1,24 @@
+.apenteng {
+  background-color: rgb(36, 226, 68);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+
+}
+
+ol {
+    list-style-type: square;
+    display: flex;
+    flex-direction: row;
+}
+
+ol li {
+    padding: 0 1rem;
+    border-right: 1px solid black;
+}
+
+ol {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
